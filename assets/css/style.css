@@ -189,13 +189,13 @@ h6 {
   top: 15px;
   z-index: 9998;
   border: 0;
-  font-size: 24px;
+  font-size: 10px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #b9c0c3;
-  color: #fff;
-  width: 30px;
-  height: 30px;
+  background-color: #672828;
+  color: #ffe7e7;
+  width: 32px;
+  height: 32px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
